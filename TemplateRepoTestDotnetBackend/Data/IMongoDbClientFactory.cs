@@ -1,6 +1,6 @@
 using MongoDB.Driver;
 
-namespace Backend.Api.Data;
+namespace TemplateRepoTestDotnetBackend.Data;
 
 public interface IMongoDbClientFactory
 {

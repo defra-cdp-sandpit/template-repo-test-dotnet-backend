@@ -1,8 +1,8 @@
-﻿using Backend.Api.Data;
-using Backend.Api.Models;
+﻿using TemplateRepoTestDotnetBackend.Data;
+using TemplateRepoTestDotnetBackend.Models;
 using MongoDB.Driver;
 
-namespace Backend.Api.Services;
+namespace TemplateRepoTestDotnetBackend.Services;
 
 public class BookService : MongoService<Book>, IBookService
 {

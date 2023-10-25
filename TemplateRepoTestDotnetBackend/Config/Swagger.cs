@@ -1,4 +1,4 @@
-namespace Backend.Api.Config;
+namespace TemplateRepoTestDotnetBackend.Config;
 
 public static class Swagger
 {

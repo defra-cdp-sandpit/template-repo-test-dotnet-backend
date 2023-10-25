@@ -1,4 +1,4 @@
-﻿namespace Backend.Api.IntegrationTest;
+﻿namespace TemplateRepoTestDotnetBackend.IntegrationTest;
 
 public class ValidationError
 {

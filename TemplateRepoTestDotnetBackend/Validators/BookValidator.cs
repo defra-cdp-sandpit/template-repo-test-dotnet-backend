@@ -1,7 +1,7 @@
-﻿using Backend.Api.Models;
+﻿using TemplateRepoTestDotnetBackend.Models;
 using FluentValidation;
 
-namespace Backend.Api.Validators;
+namespace TemplateRepoTestDotnetBackend.Validators;
 
 public class BookValidator : AbstractValidator<Book>
 {

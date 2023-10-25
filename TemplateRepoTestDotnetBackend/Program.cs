@@ -1,7 +1,7 @@
-using Backend.Api.Config;
-using Backend.Api.Data;
-using Backend.Api.Endpoints;
-using Backend.Api.Services;
+using TemplateRepoTestDotnetBackend.Config;
+using TemplateRepoTestDotnetBackend.Data;
+using TemplateRepoTestDotnetBackend.Endpoints;
+using TemplateRepoTestDotnetBackend.Services;
 using FluentValidation;
 using Serilog;
 

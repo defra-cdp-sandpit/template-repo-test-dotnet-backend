@@ -1,9 +1,9 @@
-﻿using Backend.Api.Models;
-using Backend.Api.Services;
+﻿using TemplateRepoTestDotnetBackend.Models;
+using TemplateRepoTestDotnetBackend.Services;
 using FluentValidation;
 using FluentValidation.Results;
 
-namespace Backend.Api.Endpoints;
+namespace TemplateRepoTestDotnetBackend.Endpoints;
 
 public static class LibraryEndpoints
 {

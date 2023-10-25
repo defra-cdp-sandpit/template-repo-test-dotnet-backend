@@ -1,6 +1,6 @@
-﻿using Backend.Api.Models;
+﻿using TemplateRepoTestDotnetBackend.Models;
 
-namespace Backend.Api.Services;
+namespace TemplateRepoTestDotnetBackend.Services;
 
 public interface IBookService
 {

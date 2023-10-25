@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backend.Api", "Backend.Api\Backend.Api.csproj", "{7D935959-D3BE-4EDC-BAEC-541C72741633}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateRepoTestDotnetBackend", "TemplateRepoTestDotnetBackend\TemplateRepoTestDotnetBackend.csproj", "{7D935959-D3BE-4EDC-BAEC-541C72741633}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backend.Api.Test", "Backend.Api.Test\Backend.Api.Test.csproj", "{5CB86A4A-162D-4A20-9403-5BB89D671BF6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateRepoTestDotnetBackend.Test", "TemplateRepoTestDotnetBackend.Test\TemplateRepoTestDotnetBackend.Test.csproj", "{5CB86A4A-162D-4A20-9403-5BB89D671BF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Backend.Api.IntegrationTest", "Backend.Api.IntegrationTest\Backend.Api.IntegrationTest.csproj", "{9CBD964A-2EA8-48ED-9593-9715C6D685AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateRepoTestDotnetBackend.IntegrationTest", "TemplateRepoTestDotnetBackend.IntegrationTest\TemplateRepoTestDotnetBackend.IntegrationTest.csproj", "{9CBD964A-2EA8-48ED-9593-9715C6D685AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

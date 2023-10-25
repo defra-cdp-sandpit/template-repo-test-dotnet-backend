@@ -1,11 +1,11 @@
-﻿using Backend.Api.Data;
+﻿using TemplateRepoTestDotnetBackend.Data;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Mvc.Testing;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using Testcontainers.MongoDb;
 
-namespace Backend.Api.IntegrationTest;
+namespace TemplateRepoTestDotnetBackend.IntegrationTest;
 
 public sealed class BackendApiFactory : WebApplicationFactory<IApiMarker>
 {

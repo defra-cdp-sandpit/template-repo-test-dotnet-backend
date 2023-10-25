@@ -1,4 +1,4 @@
-namespace Backend.Api.Test;
+namespace TemplateRepoTestDotnetBackend.Test;
 
 public class BookTests
 {

@@ -1,9 +1,9 @@
 ﻿using System.Net;
 using System.Net.Http.Json;
-using Backend.Api.Models;
+using TemplateRepoTestDotnetBackend.Models;
 using FluentAssertions;
 
-namespace Backend.Api.IntegrationTest;
+namespace TemplateRepoTestDotnetBackend.IntegrationTest;
 
 public class BackendEndpointsTests
     : IClassFixture<BackendApiFactory>, IAsyncLifetime
